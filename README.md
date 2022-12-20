@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=loadingscc&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on **Tianjin**.
-- 🌱 I’m currently learning **BlockChain**.
+- 🌱 I’m currently learning **Java**.
 - 💬 Ask me about Python or Cpp technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
